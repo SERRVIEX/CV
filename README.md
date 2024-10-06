@@ -1,6 +1,6 @@
-**Ciornii Sergiu**
+**Ciornii Sergiu** - Unity Develper
 
-Unity Develper
+Contacts:
 
 [![Contact](https://img.shields.io/badge/LinkedIn-blue.svg?logo=LinkedIn)](https://www.linkedin.com/in/sergiu-ciornii-466395220/)
 
@@ -11,7 +11,9 @@ Experienced Unity developer with 6+ years of experience in mobile game developme
 
 ## Languages
 Romanian - native
+
 Russian - Conversational
+
 English - B1+
 
 ## Skills
