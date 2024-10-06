@@ -16,16 +16,16 @@ Experienced Unity developer with 6+ years of experience in mobile game developme
 ### Development
  - **Programming:** Unity (2D/3D), C#, .NET, Editor Scripting
  - **Shaders**
-- Simple shaders with HLSL
-- More complex with Shader Graph
+- - Simple shaders with HLSL
+- - More complex with Shader Graph
  - Assets integration
  - **Firebase integration**
-- Analytics (default analytics without custom events)
-- Firestore (saving user data)
-- Storage (saving user resources)
-- Remote Config (controlling some game/apps configs)
-- Push Notifications
-- Authentication (Google/Apple sign-in, email/password sign-in)
+- - Analytics (default analytics without custom events)
+- - Firestore (saving user data)
+- - Storage (saving user resources)
+- - Remote Config (controlling some game/apps configs)
+- - Push Notifications
+- - Authentication (Google/Apple sign-in, email/password sign-in)
  - **Advertisment integration** (Admob, AppLovin, Unity Ads, Facebook Ads)
  - In-App Purchases
  - **Tools:** Git, Jira, Trello
