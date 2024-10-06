@@ -1,7 +1,7 @@
 **Ciornii Sergiu**
 Unity Develper
-LinkedIn: https://www.linkedin.com/feed/
-GitHub: https://github.com/SERRVIEX
+
+[![Contact](https://img.shields.io/badge/LinkedIn-blue.svg?logo=LinkedIn)](https://www.linkedin.com/in/sergiu-ciornii-466395220/)
 
 Moldova, Chisinau
 
